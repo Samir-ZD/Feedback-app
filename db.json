@@ -1,0 +1,17 @@
+{
+    "feedback":[
+        {
+            "id": 1,
+            "text": "Dobre wyzinie",
+            "rating": 3
+        }, {
+            "id": 2,
+            "text": "co to jest",
+            "rating": 5
+        }, {
+            "id": 3,
+            "text": "this is state from db.json",
+            "rating": 2
+        }
+    ]
+}
