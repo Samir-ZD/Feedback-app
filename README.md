@@ -5,7 +5,7 @@ This project is an example of a react app to show how to Create, Read, Upate Fee
 
 ### Installation and Setup Instructions
 
-Download or Clone the Repository and run `npm install`
+Clone the Repository and run `npm install`
 
 
 ### Run ReactApp
@@ -16,3 +16,13 @@ Download or Clone the Repository and run `npm install`
 ### Run Json-Server
 
 `npm run server`
+
+
+### To run both React and Json-Server
+
+`npm i concurrently`
+
+
+then run 
+
+`npm run dev`
