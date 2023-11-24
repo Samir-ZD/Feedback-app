@@ -18,7 +18,7 @@ Clone the Repository and run `npm install`
 `npm run server`
 
 
-### To run both React and Json-Server
+### To run both React and Json-Server using Concurrently
 
 `npm i concurrently`
 
